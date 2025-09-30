@@ -3,8 +3,8 @@
 Este repositorio reúne algunos proyectos de análisis de datos.
 
 ## Power BI
-- [Dashboard de Ventas](link a PDF en Drive o .pbix)
-- [Dashboard de Producción](...)
+- 📄 [Ver PDF con capturas](https://github.com/JulietaMendez/portfolio/blob/main/PowerBI/DashboardVentas.pdf)
+- ⬇️ [Descargar archivo PBIX + dataset ejemplo](https://github.com/JulietaMendez/portfolio/blob/main/PowerBI/DashboardVentas.pbix)
 
 ## Google Colab
 - [Análisis de Burnout (IBM HR dataset)](link al archivo .ipynb en este repo o abierto en Colab)
